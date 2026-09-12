@@ -3,12 +3,11 @@
 # Chaos Tinder 💔🎯
 
 ## Basic Details
-### Team Name: Ctrl+Alt+Defeat
+### Team Name: Code Crusaders
 
 ### Team Members
-- Team Lead: Shifa - [College Name]
-- Member 2: [Name] - [College Name]
-- Member 3: [Name] - [College Name]
+- Team Lead: Shifana- TKM COLLEGE OF ENGINEERING
+- Member 2: Muhammad Nihal Noushad - TKM COLLEGE OF ENGINEERING
 
 ### Project Description
 Chaos Tinder is a hostile dating app designed to make finding love virtually impossible. From elusive buttons that sprint away from your cursor to fake decoy mouse pointers and absurd mini-games, it turns everyday matchmaking into an unpredictable psychological thriller.
