@@ -6,7 +6,7 @@
 ### Team Name: Code Crusaders
 
 ### Team Members
-- Team Lead: Shifana- TKM COLLEGE OF ENGINEERING
+- Team Lead: Shifana T K- TKM COLLEGE OF ENGINEERING
 - Member 2: Muhammad Nihal Noushad - TKM COLLEGE OF ENGINEERING
 
 ### Project Description
@@ -25,7 +25,13 @@ For Software:
 - React.js
 - Material UI (@mui/icons-material), React Tinder Card
 - VS Code, Git, GitHub, Create React App
+## Installation
 
+1. **Clone the repository**
+   ```bash
+   git clone git@github.com:shifanatk/useless_project_chaos_tinder.git
+   cd chaos-tinder
+   npm install
 ### Project Documentation
 For Software:
 
@@ -44,8 +50,15 @@ For Software:
 ---
 
 
-# Installation
-```bash
-git clone git@github.com:shifanatk/useless_project_chaos_tinder.git
-cd chaos-tinder
-npm install
+### Project Demo
+# Video
+[Add your demo video link here]
+
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
+
+
+
