@@ -1,0 +1,54 @@
+.App {
+  min-height: 100vh;
+  padding-bottom: 14vh;
+  padding-top: 52px;
+  background: #fff;
+  overflow-x: hidden;
+}
+
+/* Hide native cursor — replaced by two identical rendered cursors */
+html.chaos-cursor-hidden,
+html.chaos-cursor-hidden * {
+  cursor: none !important;
+}
+
+.fake-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 32px;
+  height: 32px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  pointer-events: none;
+  z-index: 99999;
+  will-change: left, top;
+}
+
+/* Both cursors use identical styling — no visual differences */
+#fake-cursor-primary,
+#fake-cursor-decoy {
+  filter: none;
+  opacity: 1;
+}
+
+/* Elusive elements */
+.like-button,
+.elusive-close {
+  transition: transform 0.15s ease, opacity 0.15s ease, background-color 0.2s ease !important;
+}
+
+.elusive--escaped {
+  transition: none !important;
+}
+
+.elusive--shrunk,
+.elusive--hidden {
+  pointer-events: none;
+}
+
+.like-button--escaped,
+.like-button--shrunk,
+.like-button--hidden {
+  pointer-events: none;
+}

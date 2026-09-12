@@ -1,0 +1,103 @@
+.premiumBanner {
+  margin: 12px auto;
+  display: flex;
+  justify-content: center;
+  position: relative;     /* <-- CRITICAL: keeps the glow contained */
+  width: fit-content;    /* <-- Prevents the container from stretching 100% wide */
+}
+
+.premiumBanner__glow {
+  position: absolute;
+  inset: -2px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #ffd700, #ffaa00, #ff7854, #fe3c72);
+  opacity: 0.6;
+  z-index: 0;
+  filter: blur(4px);
+}
+
+.premiumBanner__content {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+  border-radius: 14px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+}
+
+.premiumBanner__badge {
+  flex-shrink: 0;
+  background: linear-gradient(135deg, #ffd700, #ffaa00);
+  color: #1a1a1a;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+.premiumBanner__text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.premiumBanner__text strong {
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.premiumBanner__text span {
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 11px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.premiumBanner__cta {
+  flex-shrink: 0;
+  background: linear-gradient(135deg, #fe3c72, #ff7854);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 16px;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.premiumBanner__close {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 20px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.15s ease, opacity 0.15s ease, background-color 0.2s ease;
+}
+
+.premiumBanner__close:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.premiumBanner--shrunk,
+.premiumBanner--camouflage,
+.premiumBanner--dodged {
+  pointer-events: auto;
+}

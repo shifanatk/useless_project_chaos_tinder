@@ -1,0 +1,43 @@
+.chat {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  height: 76px;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.15s ease;
+}
+
+.chat:hover {
+  background: #fafafa;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.chat__details {
+  flex: 1;
+}
+
+.chat__details > h2 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #212121;
+  margin-bottom: 4px;
+}
+
+.chat__details > p {
+  color: var(--tinder-muted);
+  font-size: 14px;
+}
+
+.chat__timestamp {
+  color: #c7c7cc;
+  font-size: 12px;
+}
+
+.chat__image {
+  margin-right: 14px;
+}

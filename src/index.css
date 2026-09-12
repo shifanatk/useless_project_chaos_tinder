@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Quicksand:wght@500;700;800&display=swap');
+:root {
+  --tinder-pink: #fe3c72;
+  --tinder-orange: #ff7854;
+  --tinder-gradient: linear-gradient(135deg, #fe3c72 0%, #ff7854 100%);
+  --tinder-green: #21d07c;
+  --tinder-red: #fd267a;
+  --tinder-blue: #1fc7ff;
+  --tinder-gold: #ffd700;
+  --tinder-bg: #ffffff;
+  --tinder-text: #424242;
+  --tinder-muted: #8e8e93;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Quicksand', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #ffffff;
+  color: #333333;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

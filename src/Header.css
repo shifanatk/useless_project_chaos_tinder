@@ -1,0 +1,45 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  border-bottom: 1px solid #f0f0f0;
+  background: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  height: 52px;
+}
+
+.header__logoLink {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  text-decoration: none;
+}
+
+.header__flame {
+  width: 36px;
+  height: 36px;
+}
+
+.header__brand {
+  font-family: 'Pacifico', cursive;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: #4a2c82;
+  background: none;
+  -webkit-text-fill-color: initial;
+}
+
+.header__icon {
+  color: var(--tinder-muted) !important;
+  padding: 8px !important;
+}
+
+.header__icon:hover {
+  color: var(--tinder-pink) !important;
+}
