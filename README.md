@@ -26,8 +26,23 @@ For Software:
 - Material UI (@mui/icons-material), React Tinder Card
 - VS Code, Git, GitHub, Create React App
 
-### Implementation
+### Project Documentation
 For Software:
+
+# Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
+
+![Screenshot2](Add screenshot 2 here with proper name)<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e5f44544-1888-4449-a3f8-ced394ed4ad9" />
+
+*Add caption explaining what this shows*
+
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
+
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
 
 # Installation
 ```bash
