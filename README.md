@@ -31,6 +31,6 @@ For Software:
 
 # Installation
 ```bash
-git clone [https://github.com/](https://github.com/)[your-username]/chaos-tinder.git
+git clone git@github.com:shifanatk/useless_project_chaos_tinder.git
 cd chaos-tinder
 npm install
