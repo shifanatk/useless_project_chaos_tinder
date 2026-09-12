@@ -10,7 +10,7 @@
 - Member 2: Muhammad Nihal Noushad - TKM COLLEGE OF ENGINEERING
 
 ### Project Description
-Chaos Tinder is a hostile dating app designed to make finding love virtually impossible. From elusive buttons that sprint away from your cursor to fake decoy mouse pointers and absurd mini-games, it turns everyday matchmaking into an unpredictable psychological thriller.
+Chaos Tinder is a hostile dating app designed to make finding love virtually impossible. From elusive buttons that sprint away from your cursor to fake decoy mouse pointers, it turns everyday matchmaking into an unpredictable psychological thriller.
 
 ### The Problem (that doesn't exist)
 Modern dating apps make matching far too easy, leading to choice paralysis and effortless doom-swiping without any emotional resilience training.
@@ -30,19 +30,18 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](<img width="1846" height="1962" alt="image" src="https://github.com/user-attachments/assets/56b3e330-d44e-4a91-a85d-ded21338bf8e" />
+)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e5f44544-1888-4449-a3f8-ced394ed4ad9" />
+[![Screenshot2]<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e5f44544-1888-4449-a3f8-ced394ed4ad9" />](https://github.com/shifanatk/useless_project_chaos_tinder.git)
 
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](<img width="1856" height="992" alt="image" src="https://github.com/user-attachments/assets/ea4b1408-da5e-48af-9bdb-0995e8756702" />
+)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 # Installation
 ```bash
