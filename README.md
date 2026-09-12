@@ -25,12 +25,14 @@ For Software:
 - React.js
 - Material UI (@mui/icons-material), React Tinder Card
 - VS Code, Git, GitHub, Create React App
+### Implementation
 ## Installation
 
 1. **Clone the repository**
    ```bash
    git clone git@github.com:shifanatk/useless_project_chaos_tinder.git
    cd chaos-tinder
+   npm install --legacy-peer-deps
    npm install
 ### Project Documentation
 For Software:
@@ -48,11 +50,19 @@ For Software:
 *The matches and direct messages overview displaying conversations with parody matches (including Parama chundari, Joey, Billy, and Amaran), accompanied by erratic fake cursor duplicates and an un-dismissible premium popup overlay.*
 
 ---
+# Diagrams
+<img width="1280" height="789" alt="image" src="https://github.com/user-attachments/assets/c4451a16-75a2-4585-8ba6-a6166de54537" />
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[(https://drive.google.com/file/d/1gv6ruvCjf-g5uoJzxZX7CwU1qed9v4mT/view?usp=sharing)]
+In the above video, we are showcasing four features other than normal dating application functions, which is:
+1) "Upgrade to chaos gold" and "heart" button tries to get away from user interaction clicking trying to avoid.
+2)  Twin cursor in the screen decoys you to make it difficult which is the actual clicking cursor.
+3)  Chat option deliberately and aggressively autotype rest of your sentence in awkward ways in the chat.
+4)  Scrollbar in chat moves in its own interest rather than user's desired way.
+5)  Super liking a profile will be rejecting the profile card rather than accepting or right swiping.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
