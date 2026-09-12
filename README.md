@@ -29,18 +29,20 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](<img width="1846" height="1962" alt="image" src="https://github.com/user-attachments/assets/56b3e330-d44e-4a91-a85d-ded21338bf8e" />
-)
-*Add caption explaining what this shows*
+# Screenshots
 
-[![Screenshot2]<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e5f44544-1888-4449-a3f8-ced394ed4ad9" />](https://github.com/shifanatk/useless_project_chaos_tinder.git)
+![App Landing Page](https://github.com/user-attachments/assets/56b3e330-d44e-4a91-a85d-ded21338bf8e)
+*Landing page showing the main interactive interface and layout.*
 
-*Add caption explaining what this shows*
+---
 
-![Screenshot3](<img width="1856" height="992" alt="image" src="https://github.com/user-attachments/assets/ea4b1408-da5e-48af-9bdb-0995e8756702" />
-)
-*Add caption explaining what this shows*
+[![Main Dashboard View](https://github.com/user-attachments/assets/e5f44544-1888-4449-a3f8-ced394ed4ad9)](https://github.com/shifanatk/useless_project_chaos_tinder.git)
+*Main dashboard view (Click image to view the repository).*
+
+---
+
+![User Feature Interaction](https://github.com/user-attachments/assets/ea4b1408-da5e-48af-9bdb-0995e8756702)
+*Detailed view of the core application feature in action.*
 
 
 # Installation
